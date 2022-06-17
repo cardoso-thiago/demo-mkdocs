@@ -1,0 +1,15 @@
+site_name: Demo MkDocs
+site_description: Demo MkDocs com uso do tema do Bootstrap
+site_url: https://cardoso-thiago.github.io/demo-mkdocs
+
+repo_url: https://cardoso-thiago.github.io/demo-mkdocs
+
+theme:
+  name: bootstrap4
+
+nav:
+  - Home: index.md
+  - Outro Item: outro_item.md
+  - Teste Menu:
+      - Menu 1: menu/menu_1.md
+      - Menu 2: menu/menu_2.md
